@@ -309,21 +309,21 @@ p {
 		opacity: 0.3;
 		z-index: -1;
 	}
-#services .service-bottom .icon {
+/* #services .service-bottom .icon {
 	height: 100px;
 	width: 200px;
-	margin-bottom: 40px;
-}
+	margin-bottom: 40px; */
+/* }
 #services .service-item h2 {
 	font-size: 2rem;
 	color: white;
 	margin-bottom: 10px;
-	text-transform: uppercase;
-}
+	text-transform: uppercase; */
+/* }
 #services .service-item p {
 	color: white;
 	text-align: left;
-}
+} */
 /* End Services Section */
 
 /* Projects section */
