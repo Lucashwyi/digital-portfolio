@@ -288,7 +288,7 @@ p {
 	display: flex;
 	align-items: flex-start;
 	justify-content: center;
-	/**flex-direction: column; =**/
+	flex-direction: column
 	padding: 30px;
 	border-radius: 10px;
 	background-image: url(./img/img-1.png);
