@@ -285,8 +285,8 @@ p {
 }
 #services .service-item {
 	flex-basis: 100%;
-	/* display: flex;
-	align-items: flex-start; */
+	display: flex;
+	align-items: flex-start; 
 	justify-content: center;
 	flex-direction: column;
 	padding: 30px;
