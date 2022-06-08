@@ -289,11 +289,11 @@ p {
 	align-items: flex-start;
 	justify-content: center;
 	flex-direction: column;
-	padding: 100px;
+	padding: 30px;
 	border-radius: 10px;
 	background-image: url(./img/img-1.png);
 	background-size: cover;
-	margin: 10px 5%;
+	margin: 30px 10%;
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
