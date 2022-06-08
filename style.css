@@ -288,7 +288,7 @@ p {
 	/* display: flex; */
 	/* align-items: flex-start; 
 	justify-content: center; */
-	flex-direction: column;
+	/* flex-direction: column;
 	padding: 70px;
 	border-radius: 10px;
 	background-image: url(./img/img-1.png);
@@ -296,7 +296,7 @@ p {
 	margin: 100px;
 	position: relative;
 	z-index: 1;
-	overflow: hidden;
+	overflow: hidden; */
 }
 	#services .service-item::after {
 		content: '';
