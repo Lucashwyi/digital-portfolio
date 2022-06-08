@@ -295,8 +295,8 @@ p {
 	background-size: cover;
 	margin: 100px; */
 	position: relative;
-	/* z-index: 1; */
-	overflow: hidden;  
+	z-index: 1; 
+	/* overflow: hidden;   */
 }
 	#services .service-item::after {
 		content: '';
