@@ -293,7 +293,7 @@ p {
 	border-radius: 10px;
 	background-image: url(./img/img-1.png);
 	background-size: cover;
-	margin: 60px 10%;
+	margin: 60px;
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
