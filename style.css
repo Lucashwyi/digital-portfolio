@@ -293,10 +293,10 @@ p {
 	border-radius: 10px;
 	background-image: url(./img/img-1.png);
 	background-size: cover;
-	margin: 100px;
+	margin: 100px; */
 	position: relative;
 	z-index: 1;
-	overflow: hidden; */
+	overflow: hidden; 
 }
 	#services .service-item::after {
 		content: '';
