@@ -294,7 +294,7 @@ p {
 	background-image: url(./img/img-1.png);
 	background-size: cover;
 	margin: 60px 10%;
-	/* position: relative; */
+	position: relative;
 	z-index: 1;
 	overflow: hidden;
 }
