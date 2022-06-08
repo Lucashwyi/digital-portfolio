@@ -273,8 +273,8 @@ p {
 	padding: 100px 0;
 }
 #services .service-top {
-	max-width: 500px;
-	margin: 0 auto;
+	max-width: 700px;
+	margin: auto;
 }
 #services .service-bottom {
 	display: flex;
@@ -309,7 +309,6 @@ p {
 		opacity: 0.3;
 		z-index: -1;
 	}
-}
 #services .service-bottom .icon {
 	height: 100px;
 	width: 200px;
